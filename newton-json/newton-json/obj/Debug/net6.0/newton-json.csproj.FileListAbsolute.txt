@@ -1,0 +1,17 @@
+D:\xampp\htdocs\C# development\newtonJS\newton-json\newton-json\bin\Debug\net6.0\newton-json.exe
+D:\xampp\htdocs\C# development\newtonJS\newton-json\newton-json\bin\Debug\net6.0\newton-json.deps.json
+D:\xampp\htdocs\C# development\newtonJS\newton-json\newton-json\bin\Debug\net6.0\newton-json.runtimeconfig.json
+D:\xampp\htdocs\C# development\newtonJS\newton-json\newton-json\bin\Debug\net6.0\newton-json.dll
+D:\xampp\htdocs\C# development\newtonJS\newton-json\newton-json\bin\Debug\net6.0\newton-json.pdb
+D:\xampp\htdocs\C# development\newtonJS\newton-json\newton-json\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\xampp\htdocs\C# development\newtonJS\newton-json\newton-json\obj\Debug\net6.0\newton-json.csproj.AssemblyReference.cache
+D:\xampp\htdocs\C# development\newtonJS\newton-json\newton-json\obj\Debug\net6.0\newton-json.GeneratedMSBuildEditorConfig.editorconfig
+D:\xampp\htdocs\C# development\newtonJS\newton-json\newton-json\obj\Debug\net6.0\newton-json.AssemblyInfoInputs.cache
+D:\xampp\htdocs\C# development\newtonJS\newton-json\newton-json\obj\Debug\net6.0\newton-json.AssemblyInfo.cs
+D:\xampp\htdocs\C# development\newtonJS\newton-json\newton-json\obj\Debug\net6.0\newton-json.csproj.CoreCompileInputs.cache
+D:\xampp\htdocs\C# development\newtonJS\newton-json\newton-json\obj\Debug\net6.0\newton-json.csproj.CopyComplete
+D:\xampp\htdocs\C# development\newtonJS\newton-json\newton-json\obj\Debug\net6.0\newton-json.dll
+D:\xampp\htdocs\C# development\newtonJS\newton-json\newton-json\obj\Debug\net6.0\refint\newton-json.dll
+D:\xampp\htdocs\C# development\newtonJS\newton-json\newton-json\obj\Debug\net6.0\newton-json.pdb
+D:\xampp\htdocs\C# development\newtonJS\newton-json\newton-json\obj\Debug\net6.0\newton-json.genruntimeconfig.cache
+D:\xampp\htdocs\C# development\newtonJS\newton-json\newton-json\obj\Debug\net6.0\ref\newton-json.dll

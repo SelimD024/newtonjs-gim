@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H0koZeIbdhxGil2MSe6Buz/VP1yohPvL+hQMPZCy/8R71NpfkD/4L2PLHJkhNxyoT1J0cl1hPyMIR7/AZysAqw==",
+  "success": true,
+  "projectFilePath": "D:\\xampp\\htdocs\\C# development\\newtonJS\\newton-json\\newton-json\\newton-json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Selim\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
